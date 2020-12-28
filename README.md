@@ -32,8 +32,7 @@
 
 <br />
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="AnggaWikaNugraha" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true" />
 
 [website]: https://anggawika.azurewebsites.net/
 [course]: http://vsCodeHero.com
