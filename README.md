@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?label=anggawika.azurewebsites.net&style=for-the-badge&url=https%3A%2F%2Fanggawika.azurewebsites.net)](https://anggawika.azurewebsites.net/)
 
-## Hi there, I'm angga 👋 fullstack developer.
+## Hi there, I'm angga <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> fullstack developer.
 
 - 🌱 My Stack: MERN Stack, Laravel mySql
 
