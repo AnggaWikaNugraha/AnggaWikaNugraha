@@ -1,10 +1,14 @@
-### Hi there, I'm Angga Wika Nugraha - aka [angga][website] 👋
-
 [![Website](https://img.shields.io/website?label=anggawika.azurewebsites.net&style=for-the-badge&url=https%3A%2F%2Fanggawika.azurewebsites.net)](https://anggawika.azurewebsites.net/)
 
 ## I'm a fullstack developer!!
 
-- 🌱 My Stack: MERN STACK, Laravel mySql
+- 🌱 My Stack: 
+- MERN STACK 
+- Laravel mySql
+
+<br />
+
+<br />
 
 ### Connect with me:
 
