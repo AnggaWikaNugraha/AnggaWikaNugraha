@@ -2,9 +2,7 @@
 
 ## I'm a fullstack developer!!
 
-- 🌱 My Stack: 
-- MERN Stack
-- Laravel mySql
+- 🌱 My Stack: MERN Stack, Laravel mySql
 
 ### Connect with me:
 
@@ -12,7 +10,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img align="center" alt="AnggaWikaNugraha" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true" />
+<img align="left" alt="AnggaWikaNugraha" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true" />
 
 [website]: https://anggawika.azurewebsites.net/
 [course]: http://vsCodeHero.com
