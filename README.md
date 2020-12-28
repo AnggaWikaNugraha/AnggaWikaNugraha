@@ -1,10 +1,12 @@
 [![Website](https://img.shields.io/website?label=anggawika.azurewebsites.net&style=for-the-badge&url=https%3A%2F%2Fanggawika.azurewebsites.net)](https://anggawika.azurewebsites.net/)
 
-## I'm a fullstack developer!!
+## Hi there, I'm angga 👋 fullstack developer.
 
 - 🌱 My Stack: MERN Stack, Laravel mySql
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true" />
+## Github Performance Overall
+![AnggaWikaNugraha's github stats](https://github-readme-stats.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaWikaNugraha&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
