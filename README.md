@@ -2,7 +2,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
@@ -11,5 +11,5 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: 
 [2]: https://www.linkedin.com/in/angga-wika-nugraha-a45b0111a/
