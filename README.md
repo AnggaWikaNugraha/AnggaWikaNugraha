@@ -3,12 +3,8 @@
 ## I'm a fullstack developer!!
 
 - 🌱 My Stack: 
-- MERN STACK 
+- MERN Stack
 - Laravel mySql
-
-<br />
-
-<br />
 
 ### Connect with me:
 
