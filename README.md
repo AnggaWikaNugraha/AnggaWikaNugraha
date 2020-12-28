@@ -1,6 +1,6 @@
 ### Hi there, I'm Angga Wika Nugraha - aka [angga][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anggawika.azurewebsites.net/)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fanggawika.azurewebsites.net/)](https://anggawika.azurewebsites.net/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
