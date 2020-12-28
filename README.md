@@ -12,7 +12,7 @@
 
 <br />
 
-<img alt="AnggaWikaNugraha" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true" />
 
 [website]: https://anggawika.azurewebsites.net/
 [course]: http://vsCodeHero.com
