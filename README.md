@@ -1,12 +1,8 @@
-[![Website](https://img.shields.io/website?label=PortfolioCV&style=for-the-badge&url=https%3A%2F%2Fanggawika.azurewebsites.net)](https://anggawika.azurewebsites.net/)
+[![Website](https://img.shields.io/website?label=PortfolioCV&style=for-the-badge&url=https%3A%2F%2Fanggawikanugraha.herokuapp.com)](http://anggawikanugraha.herokuapp.com/)
 
 ## Hi there, I'm angga <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> fullstack developer.
 
 - 🌱 My Stack: MERN Stack, Laravel mySql
-
-## Github Performance Overall
-![AnggaWikaNugraha's github stats](https://github-readme-stats.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaWikaNugraha&theme=nord&layout=compact)](https://github.com/AnggaWikaNugraha)
 
 ### Connect with me:
 
