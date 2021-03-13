@@ -4,7 +4,7 @@
 
 - 🌱 My Stack: MERN Stack, Laravel mySql
 
-- Experience in Startup or freelance :
+- 🌱 Experience in Startup or freelance :
 - CV Intersolusi cipta softindo as a backend developer (intern)
 - Ludioz as a frontend developer (kontrak)
 - Automate All as a frontend developer (intern)
