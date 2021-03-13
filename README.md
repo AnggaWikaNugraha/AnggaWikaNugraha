@@ -10,6 +10,7 @@
 - Automate All as a frontend developer (intern)
 - Build web E-voting IMM FT (freelance)
 - Build web KWT Melati (freelance)
+- PT Meetaza Prawira Media, currently working here (Fulltime)
 
 ### Connect with me:
 
