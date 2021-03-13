@@ -4,6 +4,13 @@
 
 - 🌱 My Stack: MERN Stack, Laravel mySql
 
+- Experience in Startup or freelance :
+  CV Intersolusi cipta softindo as a backend developer (intern)
+  Ludioz as a frontend developer (kontrak)
+  Automate All as a frontend developer (intern)
+  Build web E-voting IMM FT (freelance)
+  Build web KWT Melati (freelance)
+
 ### Connect with me:
 
 [<img align="left" alt="anggawika.azurewebsites.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
