@@ -2,15 +2,7 @@
 
 ## Hi there, I'm angga <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> fullstack developer.
 
-## 🌱 My Stack: MERN Stack, Laravue stack
 
-## 🌱 Experience in Startup or freelance :
-- CV Intersolusi cipta softindo as a backend developer (intern)
-- Ludioz as a frontend developer (kontrak)
-- Automate All as a frontend developer (intern)
-- Build web E-voting IMM FT (freelance)
-- Build web KWT Melati (freelance)
-- PT Meetaza Prawira Media, currently working here (Fulltime)
 
 ### Connect with me:
 
