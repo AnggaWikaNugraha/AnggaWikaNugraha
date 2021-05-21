@@ -28,5 +28,5 @@
 ##### > freelance remote working Frontend Developer Next.Js @Ludioz
 ##### > now fulltime employee Frontend Developer React.js @PT Meetaza prawira media
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rifandani.visitor-badge)](https://github.com/AnggaWikaNugraha)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AnggaWikaNugraha.visitor-badge)](https://github.com/AnggaWikaNugraha)
 ### I'm a final year student :'v
