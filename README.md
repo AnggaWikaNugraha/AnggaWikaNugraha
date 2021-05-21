@@ -21,3 +21,9 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+#### my experience for developing
+##### > Intern Back End Developer .Net @Cv intersolusi cipta softindo
+##### > Intern Frontend Developer @Automate All
+##### > freelance remote working Frontend Developer Next.Js @Ludioz
+##### > now fulltime employee Frontend Developer React.js @PT Meetaza prawira media
