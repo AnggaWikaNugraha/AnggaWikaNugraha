@@ -1,4 +1,4 @@
-## Hi there, I'm angga <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Hi I'm angga <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ### Connect with me:
 
