@@ -9,5 +9,3 @@
 <br>
 
 [linkedin]: https://www.linkedin.com/in/angga-wika-nugraha-a45b0111a/
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AnggaWikaNugraha.visitor-badge)](https://github.com/AnggaWikaNugraha)
