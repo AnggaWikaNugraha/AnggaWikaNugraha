@@ -3,28 +3,14 @@
 ### my stacks :
 - Javascript - Typescript - Golang - Php
 
-- React.Js
-- React Native
-- Next.Js
-- Vue.Js
-- Laravel
+- React.Js - React Native - Next.Js - Vue.Js - Laravel
 
-- Rest api
-- GraphQl
+- Rest api - GraphQl
 
-- Bootstrap
-- Material ui
-- Tailwinds
-- Vuetify
+- Bootstrap - Material ui - Tailwinds - Vuetify
 
-- Redux
-- Context api
-- vuex
+- Redux - Context api - vuex
 
-- Node.js
-- express
-- MongoDb
-- PostgresQL
-- MySql
+- Node.js - express - MongoDb - PostgresQL - MySql
 
 - Docker
