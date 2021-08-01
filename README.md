@@ -3,7 +3,7 @@
 ### my stacks :
 - Javascript - Typescript - Golang - Php
 
-- React.Js - React Native - Next.Js - Vue.Js - Laravel
+- React.Js - React Native - Next.Js - Vue.Js 
 
 - Rest api - GraphQl
 
@@ -11,6 +11,6 @@
 
 - Redux - Context api - vuex
 
-- Node.js - express - MongoDb - PostgresQL - MySql
+- Node.js - express - MongoDb - PostgresQL - MySql - Laravel
 
 - Docker
