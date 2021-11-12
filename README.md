@@ -4,3 +4,8 @@
 - Frontend Web ['React.js', 'Vue.js']
 - Frontend Mobile ['React Native']
 - Backend ['Express.js', 'Laravel']
+
+### currently learning
+- graphql
+- typescript
+- unit testing jest and RTL
