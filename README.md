@@ -27,6 +27,7 @@ const me = [
 ];
 ```
 ### 🔍 Currently Learning:
+- <a href="https://www.typescriptlang.org/id/docs/handbook/react.html">TypeScript</a>
 - <a href="https://reactpatterns.com/">Desaign pattern</a>
 - <a href="https://graphql.org/graphql-js/">GraphQL</a>
 - <a href="https://www.apollographql.com/docs/react/">Apollo Client</a>
