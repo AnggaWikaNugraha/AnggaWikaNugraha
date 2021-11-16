@@ -5,29 +5,30 @@
 ### 💻 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const me = {
+const me = [
     code: ["Javascript", "TypeScript", "PHP"],
-    technologies: {
+    technologies: [
         backEnd: {
             TypeScript: ["Node", "Express"],
-            Php: ["Laravel"],
+            Php: "Laravel",
         },
         frontEnd: {
             TypeScript: ["React.Js", "Next.js", "vue.js"],
         },
         mobileApp: {
-            Hybrid: ["React Native"],
+            Hybrid: "React Native",
         },
-        devOps: ["Docker🐳"],
+        devOps: "Docker🐳",
         databases: ["mongo", "MySql",],
         misc: ["Firebase", "Socket.IO"]
-    },
+    ],
     currentFocus: "GraphQL",
     Fact: "Focused on react and typescript using graphql"
-};
+];
 ```
 ### 🔍 Currently Learning:
-- Design Pattern
-- graphql
-- unit testing
+- <a href="https://reactpatterns.com/">Desaign pattern</a>
+- GraphQL
+- Apollo Client
+- Unit testing
 
