@@ -23,7 +23,7 @@ const me = [
         misc: ["Firebase", "Socket.IO"]
     ],
     currentFocus: "GraphQL",
-    Fact: "Focused on react and typescript using graphql"
+    Fact: "Focused on react and graphql using typescript"
 ];
 ```
 ### 🔍 Currently Learning:
