@@ -31,5 +31,5 @@ const me = [
 - <a href="https://reactpatterns.com/">Desaign pattern</a>
 - <a href="https://graphql.org/graphql-js/">GraphQL</a>
 - <a href="https://www.apollographql.com/docs/react/">Apollo Client</a>
-- Unit Testing <a href="https://testing-library.com/docs/react-testing-library/intro/">RTL</a> & <a href="https://jestjs.io/docs/testing-frameworks">Jest</a>
+- Unit Testing || integration testing <a href="https://testing-library.com/docs/react-testing-library/intro/">RTL</a> & <a href="https://jestjs.io/docs/testing-frameworks">Jest</a>
 
