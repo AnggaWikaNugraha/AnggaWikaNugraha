@@ -37,5 +37,5 @@ const me = [
 - Unit Testing || integration testing <a href="https://testing-library.com/docs/react-testing-library/intro/">RTL</a> & <a href="https://jestjs.io/docs/testing-frameworks">Jest</a>
 - javascript airbnb style
 - nginx
-- docker
+- docker.
 
