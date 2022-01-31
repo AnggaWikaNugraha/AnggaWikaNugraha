@@ -38,4 +38,5 @@ const me = [
 - javascript airbnb style
 - nginx
 - docker.
+- redux-saga
 
