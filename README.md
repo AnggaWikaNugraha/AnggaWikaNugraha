@@ -1,6 +1,6 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm angga</h1>
 
-<hp text-align="center">"Seseorang yang memiliki pengalaman lebih dari satu tahun di bidang frontend developer"</p>
+<hp text-align="center">"Seseorang yang memiliki pengalaman lebih dari dua tahun di bidang frontend developer"</p>
 
 ### 💻 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me.....
 
