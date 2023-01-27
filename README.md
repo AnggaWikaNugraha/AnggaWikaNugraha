@@ -2,7 +2,6 @@
 
 <hp text-align="center">"Seseorang yang memiliki pengalaman lebih dari dua tahun di bidang frontend developer."</p>
 <hp text-align="center">Sekarang bekerja pada bagidata, perusahaan inovasi PT Telkom Indonesia yang memiliki fokus di bidang Human Capital Analytic</p>
-<hp text-align="center">tidak menutup kemungkinan untuk mencari freelance dan project di luar jam kerja</p>
 
 ### 💻 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me.....
 
