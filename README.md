@@ -26,8 +26,7 @@ const me = [
 - <a href="https://www.typescriptlang.org/id/docs/handbook/react.html">TypeScript</a>
 - <a href="https://reactpatterns.com/">Desaign pattern</a>
 - <a href="https://graphql.org/graphql-js/">GraphQL</a>
-- <
-a href="https://www.apollographql.com/docs/react/">Apollo Client</a>
+- <a href="https://www.apollographql.com/docs/react/">Apollo Client</a>
 - <a href="https://emotion.sh/docs/introduction">CSS-in-JS using emotion</a>
 - <a href="#">SSR, SSG, SWR, React Query</a>
 - <a href="https://web.dev/fugu-status/">Web Capabilities</a>
