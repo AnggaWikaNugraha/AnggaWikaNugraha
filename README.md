@@ -9,17 +9,19 @@
 const me = [
     code: ["Javascript", "TypeScript"],
     technologies: [
-        frontEnd: {
-            TypeScript: ["React.Js", "Next.js"],
+        {
+            frontEnd: ["React.Js", "Next.js"]
         },
-        mobileApp: {
-            Hybrid: "React Native",
+        {
+            mobileApp: ["React Native"]
         },
-        devOps: "Docker🐳",
-        misc: ["Firebase", "Socket.IO"]
+        {
+            redux: ["redux-saga", "redux-thunk", "redux-toolkit"]
+        },
+        {
+            css: ["tailwind", "material-ui", "bootstrap","styled-in-component", "css-in-js"]
+        },
     ],
-    currentFocus: ["nextjs", "typescript"]
-    Fact: "Focused on react and graphql using typescript"
 ];
 ```
 ### 🔍 Currently Learning:
