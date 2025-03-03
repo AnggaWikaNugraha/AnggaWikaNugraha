@@ -1,1 +1,3 @@
-<hp text-align="center">Sekarang bekerja fulltime pada PT. Diksha berlokasi di jakarta selatan dengan client PT BANK RAKYAT INDONESIA, TBK. selain itu punya side project pada bagidata perusahaan inovasi PT Telkom Indonesia yang memiliki fokus di bidang Human Capital Analytic dan IODA membangun platform online learning</p>
+<hp text-align="center">
+Saat ini bekerja full-time sebagai Frontend Developer mobile react native dan next.js dengan fokus pada banking. Di luar pekerjaan utama, saya juga menjalankan dua side project sebagai Frontend Developer Next.Js dengan fokus pada Human Capital Analytics dan platform e-learning. Saya percaya bahwa eksplorasi di berbagai bidang tersebut membantu saya terus berkembang dan memberikan nilai lebih dalam setiap proyek yang saya kerjakan.
+</p>
