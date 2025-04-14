@@ -1,3 +1,6 @@
-<hp text-align="center">
-Saat ini bekerja full-time sebagai Frontend Developer mobile react native dan next.js dengan fokus pada banking. Di luar pekerjaan utama, saya juga menjalankan dua side project sebagai Frontend Developer Next.Js dengan fokus pada Human Capital Analytics dan platform e-learning. Saya percaya bahwa eksplorasi di berbagai bidang tersebut membantu saya terus berkembang dan memberikan nilai lebih dalam setiap proyek yang saya kerjakan.
+<p text-align="center">
+Frontend Engineer with 4.5+ years of professional experience in developing and maintaining apps. I work with the React library and the Next.js framework for web development, and also React Native for mobile development.
+
+Currently working full-time and managing two side projects. I believe that exploring various fields helps me continuously grow and add value to every project I work on.
+
 </p>
