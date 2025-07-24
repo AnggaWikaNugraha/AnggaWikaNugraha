@@ -3,7 +3,6 @@ Frontend Engineer with 4.5+ years of professional experience in developing and m
 
 Currently working full-time and managing two side projects. I believe that exploring various fields helps me continuously grow and add value to every project I work on.
 
-- Bri senyum mobile and pemasar for fulltimer
+- Bri senyum mobile apps, pemasar brispot dan dashboard for fulltimer
 - talent engine by telkom for project base
-- ioda e-learning for project base
 </p>
