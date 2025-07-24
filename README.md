@@ -3,6 +3,7 @@ Frontend Engineer with 5+ years of professional experience in developing and mai
 
 Currently working full-time and managing two side projects. I believe that exploring various fields helps me continuously grow and add value to every project I work on.
 
-- Bri senyum mobile apps, pemasar sales/marketing BRI, Pegadaian, dan PNM dan dashboard for fulltimer
+- Bri senyum mobile apps, pemasar BRI, Pegadaian, dan PNM dan dashboard for fulltimer
 - talent engine by telkom for project base
+- weclic studio MSA
 </p>
