@@ -5,5 +5,5 @@ Currently working full-time and managing two side projects. I believe that explo
 
 - Bri senyum mobile apps, pemasar BRI, Pegadaian, dan PNM dan dashboard for fulltimer
 - talent engine by telkom for project base
-- weclic studio MSA
+- weclic studio MSA(muslim super app)
 </p>
