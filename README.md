@@ -5,5 +5,4 @@ Currently working full-time and managing two side projects. I believe that explo
 
 - BRI senyum mobile apps and dashboard for fulltimer
 - talent engine by telkom for project base
-- wesclic studio MSA
 </p>
