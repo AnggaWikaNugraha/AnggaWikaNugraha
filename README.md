@@ -3,6 +3,6 @@ Frontend Engineer with 5+ years of professional experience in developing and mai
 
 Currently working full-time and managing two side projects. I believe that exploring various fields helps me continuously grow and add value to every project I work on.
 
-- BRI senyum mobile apps and dashboard for fulltimer
+- BRI New QLOLA
 - talent engine by telkom for project base
 </p>
