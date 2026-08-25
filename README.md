@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Angga%20Wika%20Nugraha&fontSize=42&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20%26%20Fullstack&descAlignY=52&descSize=16" width="100%" />
 
 <a href="https://port-tau-azure.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=5%2B+years+building+for+web+%26+mobile;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+React+Native+%E2%80%A2+Flutter;Node.js+%E2%80%A2+Laravel+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Clean%2C+scalable%2C+accessible+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=560&lines=5%2B+years+building+for+web+%26+mobile;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+React+Native+%E2%80%A2+Flutter;Micro+Frontend+%E2%80%A2+Module+Federation+%E2%80%A2+Monorepo;Node.js+%E2%80%A2+Laravel+%E2%80%A2+MySQL+%E2%80%A2+MongoDB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,11 +29,85 @@
 
 - 🏗️ I build **frontend and fullstack** products — from pixel-accurate UI to the API and database behind it.
 - ⚛️ Web with **React.js, Next.js, Vue.js**; mobile with **React Native** and **Flutter**.
+- 🧩 I design **Micro Frontend** architectures — splitting a large app into independently built and deployed modules with **Module Federation**.
 - 🛠️ Backend with **Node.js** and **Laravel**, backed by **MySQL** and **MongoDB** (Mongoose ODM, Eloquent ORM).
 - ✨ I care about **clean, maintainable, scalable, and accessible** code.
 - 🤝 Comfortable collaborating with cross-functional teams in **Agile Scrum** environments.
-- 🚀 I also ship personal fullstack projects to explore modern architectures and end-to-end development.
 - 🌐 More projects and technical details → **[port-tau-azure.vercel.app](https://port-tau-azure.vercel.app)**
+
+---
+
+## 🧩 Micro Frontend Architecture
+
+Instead of one giant SPA, I split the frontend into **independent modules** — each with its own repo/workspace, its own build, its own deploy, and its own team ownership. A thin **Host (Shell)** composes them at runtime.
+
+```mermaid
+graph TD
+    U[User] --> H["🏠 HOST / SHELL<br/>routing · auth · layout · shared state"]
+    H -->|remoteEntry.js| A["🧾 mf-dashboard<br/>React + Vite"]
+    H -->|remoteEntry.js| B["💳 mf-transaction<br/>React + Webpack 5"]
+    H -->|remoteEntry.js| C["👤 mf-account<br/>Vue 3"]
+    H --> D["📦 shared-ui<br/>design system · hooks · utils"]
+    A --> D
+    B --> D
+    C --> D
+```
+
+### How the modules are split
+
+| Module | Type | Responsibility |
+| :--- | :--- | :--- |
+| **Host / Shell** | Container | App routing, authentication, global layout, error boundary, loading remotes |
+| **Feature Remotes** | Remote | One business domain per module (dashboard, transaction, account) — built & deployed on its own |
+| **shared-ui** | Library | Design system components, theme tokens, shared hooks & helpers |
+| **shared-core** | Library | API client, auth session, event bus, TypeScript contracts |
+
+### Key principles
+
+- **Independent deploy** — a remote ships without rebuilding the host or any sibling module.
+- **Shared singletons** — `react`, `react-dom`, and the router are declared as `singleton: true` so only one instance lives in the browser.
+- **Contract-first** — every remote exposes a typed public surface; nothing reaches into another module's internals.
+- **Runtime isolation** — a failing remote is caught by the shell's error boundary instead of taking down the whole app.
+- **Graceful fallback** — lazy loading with `<Suspense>` + skeleton while `remoteEntry.js` is fetched.
+
+### 🛠️ Tools I use
+
+| Layer | Tools |
+| :--- | :--- |
+| **Composition** | Webpack 5 Module Federation · `@originjs/vite-plugin-federation` · Next.js Multi Zones · single-spa |
+| **Monorepo** | Nx · Turborepo · pnpm workspaces |
+| **Shared UI** | Storybook · Tailwind CSS · Radix UI · design tokens |
+| **Cross-module state** | Zustand · Redux Toolkit · Custom Event Bus (`CustomEvent` / pub-sub) |
+| **Contracts & quality** | TypeScript · ESLint · Prettier · Vitest / Jest · Playwright |
+| **Delivery** | Docker · GitHub Actions · Vercel — one pipeline per remote |
+
+<details>
+<summary><b>📄 Example — Module Federation config</b></summary>
+
+```js
+// host/webpack.config.js
+new ModuleFederationPlugin({
+  name: 'host',
+  remotes: {
+    dashboard: 'dashboard@https://dashboard.example.com/remoteEntry.js',
+    transaction: 'transaction@https://transaction.example.com/remoteEntry.js',
+  },
+  shared: {
+    react: { singleton: true, requiredVersion: '^18.0.0' },
+    'react-dom': { singleton: true, requiredVersion: '^18.0.0' },
+  },
+});
+
+// remote/webpack.config.js
+new ModuleFederationPlugin({
+  name: 'dashboard',
+  filename: 'remoteEntry.js',
+  exposes: { './DashboardApp': './src/App' },
+  shared: { react: { singleton: true }, 'react-dom': { singleton: true } },
+});
+```
+
+</details>
 
 ---
 
@@ -48,6 +122,10 @@
 **Frontend & Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,tailwind,redux" height="46" alt="Frontend and Mobile" />
+
+**Architecture & Build**
+
+<img src="https://skillicons.dev/icons?i=webpack,vite,nx,pnpm,babel,jest" height="46" alt="Architecture and Build" />
 
 **Backend & Database**
 
