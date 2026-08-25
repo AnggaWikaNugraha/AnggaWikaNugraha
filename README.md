@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Angga%20Wika%20Nugraha&fontSize=42&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20%26%20Fullstack&descAlignY=52&descSize=16" width="100%" />
+
 <a href="https://port-tau-azure.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=5%2B+years+building+for+web+%26+mobile;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+React+Native+%E2%80%A2+Flutter;Node.js+%E2%80%A2+Laravel+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Clean%2C+scalable%2C+accessible+code" alt="Typing SVG" />
 </a>
