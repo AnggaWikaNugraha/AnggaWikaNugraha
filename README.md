@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Angga%20Wika%20Nugraha&fontSize=42&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20%26%20Fullstack&descAlignY=52&descSize=16" width="100%" />
-
-<a href="https://anggawika.dev">
+<a href="https://port-tau-azure.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=5%2B+years+building+for+web+%26+mobile;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+React+Native+%E2%80%A2+Flutter;Node.js+%E2%80%A2+Laravel+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Clean%2C+scalable%2C+accessible+code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://anggawika.dev">
-  <img src="https://img.shields.io/badge/Portfolio-anggawika.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://port-tau-azure.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/angga-w-a45b0111a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,7 +31,7 @@
 - ✨ I care about **clean, maintainable, scalable, and accessible** code.
 - 🤝 Comfortable collaborating with cross-functional teams in **Agile Scrum** environments.
 - 🚀 I also ship personal fullstack projects to explore modern architectures and end-to-end development.
-- 🌐 More projects and technical details → **[anggawika.dev](https://anggawika.dev)**
+- 🌐 More projects and technical details → **[port-tau-azure.vercel.app](https://port-tau-azure.vercel.app)**
 
 ---
 
@@ -84,13 +82,13 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Personal Portfolio](https://anggawika.dev)** | Fullstack portfolio with public site + protected admin dashboard, drag-to-reorder content, image uploads, and a language lab. | `Next.js 15` `MySQL` `JWT` `Cloudinary` |
+| **[Personal Portfolio](https://port-tau-azure.vercel.app)** | Fullstack portfolio with public site + protected admin dashboard, drag-to-reorder content, image uploads, and a language lab. | `Next.js 15` `MySQL` `JWT` `Cloudinary` |
 | **Project Two** | Short one-line description of what it does and why it matters. | `React Native` `Node.js` `MongoDB` |
 | **Project Three** | Short one-line description of what it does and why it matters. | `Vue.js` `Laravel` `MySQL` |
 
 <div align="center">
-  <a href="https://anggawika.dev">
-    <img src="https://img.shields.io/badge/See%20all%20projects%20%E2%86%92-anggawika.dev-0EA5E9?style=for-the-badge" alt="See all projects" />
+  <a href="https://port-tau-azure.vercel.app">
+    <img src="https://img.shields.io/badge/See%20all%20projects%20%E2%86%92-Visit%20Portfolio-0EA5E9?style=for-the-badge" alt="See all projects" />
   </a>
 </div>
 
