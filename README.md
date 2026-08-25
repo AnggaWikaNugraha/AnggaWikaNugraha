@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Angga%20Wika%20Nugraha&fontSize=42&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20%26%20Fullstack&descAlignY=52&descSize=16" width="100%" />
-
 <a href="https://port-tau-azure.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=560&lines=5%2B+years+building+for+web+%26+mobile;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+React+Native+%E2%80%A2+Flutter;Micro+Frontend+%E2%80%A2+Module+Federation+%E2%80%A2+Monorepo;Node.js+%E2%80%A2+Laravel+%E2%80%A2+MySQL+%E2%80%A2+MongoDB" alt="Typing SVG" />
 </a>
@@ -138,13 +136,6 @@ new ModuleFederationPlugin({
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnggaWikaNugraha&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=8B96A5&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaWikaNugraha&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=0EA5E9&text_color=8B96A5&langs_count=8" alt="Top languages" />
 
 <br/>
 
