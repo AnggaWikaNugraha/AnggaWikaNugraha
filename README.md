@@ -137,18 +137,6 @@ new ModuleFederationPlugin({
 
 ---
 
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=AnggaWikaNugraha&hide_border=true&theme=tokyonight&background=00000000&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnggaWikaNugraha&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
-</div>
-
----
-
 ## 🚀 Featured Work
 
 | Project | Description | Stack |
