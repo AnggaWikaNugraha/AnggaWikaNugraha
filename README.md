@@ -68,18 +68,6 @@ graph TD
 - **Runtime isolation** — a failing remote is caught by the shell's error boundary instead of taking down the whole app.
 - **Graceful fallback** — lazy loading with `<Suspense>` + skeleton while `remoteEntry.js` is fetched.
 
-### 🛠️ Tools I use
-
-| Layer | Tools |
-| :--- | :--- |
-| **Composition** | Webpack 5 Module Federation · `@originjs/vite-plugin-federation` · Next.js Multi Zones · single-spa |
-| **Monorepo** | Nx · Turborepo · pnpm workspaces |
-| **Shared UI** | Storybook · Tailwind CSS · Radix UI · design tokens |
-| **Cross-module state** | Zustand · Redux Toolkit · Custom Event Bus (`CustomEvent` / pub-sub) |
-| **Contracts & quality** | TypeScript · ESLint · Prettier · Vitest / Jest · Playwright |
-| **Delivery** | Docker · GitHub Actions · Vercel — one pipeline per remote |
-
-<details>
 <summary><b>📄 Example — Module Federation config</b></summary>
 
 ```js
@@ -106,50 +94,6 @@ new ModuleFederationPlugin({
 ```
 
 </details>
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,dart,php,html,css" height="46" alt="Languages" />
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,tailwind,redux" height="46" alt="Frontend and Mobile" />
-
-**Architecture & Build**
-
-<img src="https://skillicons.dev/icons?i=webpack,vite,nx,pnpm,babel,jest" height="46" alt="Architecture and Build" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb,prisma" height="46" alt="Backend and Database" />
-
-**Tools & Platform**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vercel,vscode" height="46" alt="Tools" />
-
-</div>
-
----
-
-## 🚀 Featured Work
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Personal Portfolio](https://port-tau-azure.vercel.app)** | Fullstack portfolio with public site + protected admin dashboard, drag-to-reorder content, image uploads, and a language lab. | `Next.js 15` `MySQL` `JWT` `Cloudinary` |
-| **Project Two** | Short one-line description of what it does and why it matters. | `React Native` `Node.js` `MongoDB` |
-| **Project Three** | Short one-line description of what it does and why it matters. | `Vue.js` `Laravel` `MySQL` |
-
-<div align="center">
-  <a href="https://port-tau-azure.vercel.app">
-    <img src="https://img.shields.io/badge/See%20all%20projects%20%E2%86%92-Visit%20Portfolio-0EA5E9?style=for-the-badge" alt="See all projects" />
-  </a>
-</div>
 
 ---
 
